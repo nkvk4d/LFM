@@ -1,4 +1,4 @@
-# LFM (Light Gilm Maker)
+# LFM (Light Film Maker)
 Light Film Maker is a program for creating light animations
 
 This project is licensed under the GNU General Public License v3.0 (GPLv3).
