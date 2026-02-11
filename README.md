@@ -1,7 +1,5 @@
 # LFM (Light Film Maker)
 Light Film Maker is a program for creating light animations
-
-This project is licensed under the GNU General Public License v3.0 (GPLv3).
 This software incorporates the following third-party components:
 simple-graphics-stack — graphics engine written in Rust by BreadAboba228.
 Licensed under: MIT License.
